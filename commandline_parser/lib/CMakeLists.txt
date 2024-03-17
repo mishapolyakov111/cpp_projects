@@ -1,0 +1,1 @@
+add_library(argparser ArgParser.cpp IntParameter.cpp StringParameter.cpp Flag.cpp HelpParameter.cpp)

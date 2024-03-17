@@ -1,0 +1,1 @@
+add_library(ConsoleParser ArgParser.cpp IntParameter.cpp StringParameter.cpp Flag.cpp HelpParameter.cpp)
